@@ -1,3 +1,10 @@
+# What worked for me
+
+I ran `sudo apt-get install build-essential linux-headers-generic` prior
+I had to remove `rmmod 8812au` the existing module and then run the install script.
+Used usb phone tether which seems to be ok.
+
+
 ## Changes
 2019-07-11: Updated to compile against kernel 5.2
 
